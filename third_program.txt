@@ -1,0 +1,18 @@
+>>> x = 10+20*(45+67.0)
+>>> x
+2250.0
+>>> x=(True and False) or False
+>>> x
+False
+>>> x=(True or False) and (not False and True)
+>>> x
+True
+>>> x=(True or False) and (not False and True)
+>>> x
+True
+>>> x = (3>89) or (34>32)
+>>> x
+True
+>>> x= not True and Flase
+>>> x
+False
